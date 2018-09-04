@@ -1,0 +1,326 @@
+﻿Service,Category,Subcategory,"Incident Type"
+"Accounts & Authentication","AD Authentication","Cannot Connect to LDAP",Incident
+"Accounts & Authentication","AD Authentication","New LDAPS Integration","Service Request"
+"Accounts & Authentication","AD Authentication","Not Listed",Incident
+"Accounts & Authentication","Alumni Account","Cannot Access Alumni Account",Incident
+"Accounts & Authentication","Alumni Account","New Alumni Email Account","Service Request"
+"Accounts & Authentication","Alumni Account","Not Listed",Incident
+"Accounts & Authentication","Alumni Account","Password Reset","Service Request"
+"Accounts & Authentication","Exception Account","Cannot Access Exception Account",Incident
+"Accounts & Authentication","Exception Account","Modify Exception Account","Service Request"
+"Accounts & Authentication","Exception Account","New Exception Account","Service Request"
+"Accounts & Authentication","Exception Account","Not Listed",Incident
+"Accounts & Authentication","Exception Account","Remove Exception Account","Service Request"
+"Accounts & Authentication","Exception Account","Renew Exception Account","Service Request"
+"Accounts & Authentication","Faculty Staff Account","Cannot Access Faculty Staff Account",Incident
+"Accounts & Authentication","Faculty Staff Account","Information Update","Service Request"
+"Accounts & Authentication","Faculty Staff Account","Merge Accounts","Service Request"
+"Accounts & Authentication","Faculty Staff Account","Not Listed","Service Request"
+"Accounts & Authentication","Faculty Staff Account","Password Reset","Service Request"
+"Accounts & Authentication","IT System & Service Access","Elevated IT Account Request","Service Request"
+"Accounts & Authentication","IT System & Service Access","Modify Elevated Account","Service Request"
+"Accounts & Authentication","IT System & Service Access","Modify OUNetID Access","Service Request"
+"Accounts & Authentication","IT System & Service Access","Not Listed",Incident
+"Accounts & Authentication","IT System & Service Access","Remove Elevated Account","Service Request"
+"Accounts & Authentication","Multi-Factor Authentication","Cannot Connect to DUO",Incident
+"Accounts & Authentication","Multi-Factor Authentication","New DUO Integration","Service Request"
+"Accounts & Authentication","Multi-Factor Authentication","Not Listed",Incident
+"Accounts & Authentication","Organization Account","Modify Organization Account","Service Request"
+"Accounts & Authentication","Organization Account","New Organization Account","Service Request"
+"Accounts & Authentication","Organization Account","Not Listed",Incident
+"Accounts & Authentication","Organization Account","Remove Organization Account","Service Request"
+"Accounts & Authentication","Organization Account","Renew Organization Account","Service Request"
+"Accounts & Authentication","Single Sign On","Cannot Connect to PING",Incident
+"Accounts & Authentication","Single Sign On","Cannot connect to Shibboleth",Incident
+"Accounts & Authentication","Single Sign On","New PING Integration","Service Request"
+"Accounts & Authentication","Single Sign On","Not Listed",Incident
+"Accounts & Authentication","ST2 Action","HR Lock",Incident
+"Accounts & Authentication","ST2 Action","Security Lock",Incident
+"Accounts & Authentication","ST2 Action","Security Lock Customer Notification",Incident
+"Accounts & Authentication","ST2 Action","ST2 Actions",Incident
+"Accounts & Authentication","Student Account","Cannot Access Student Account",Incident
+"Accounts & Authentication","Student Account","Information Update","Service Request"
+"Accounts & Authentication","Student Account","Merge Account","Service Request"
+"Accounts & Authentication","Student Account","Not Listed",Incident
+"Accounts & Authentication","Student Account","Password Reset","Service Request"
+"Device Support","End of Life","End of Lease Pick-Up","Service Request"
+"Device Support","End of Life","Not Listed",Incident
+"Device Support","End of Life","Surplus Technology Pick-Up","Service Request"
+"Device Support","Hardware Check-In","Boot Camp Installation","Service Request"
+"Device Support","Hardware Check-In","Erase and Install OS","Service Request"
+"Device Support","Hardware Check-In","Hardware Payment Error","Service Request"
+"Device Support","Hardware Check-In","Hardware Repair",Incident
+"Device Support","Hardware Check-In","Not Listed",Incident
+"Device Support","Hardware Check-In","Software Installations",Incident
+"Device Support","Hardware Check-In","Software Troubleshooting",Incident
+"Device Support","Hardware Check-In","Virus Mitigation",Incident
+"Device Support","Partnership On-Site Support","Device Troubleshooting",Incident
+"Device Support","Partnership On-Site Support","Express Check-In","Service Request"
+"Device Support","Partnership On-Site Support","Hardware / Peripheral Installation","Service Request"
+"Device Support","Partnership On-Site Support","New Device Set-Up","Service Request"
+"Device Support","Partnership On-Site Support","Not Listed",Incident
+"Device Support","Partnership On-Site Support","OS - Software Installation","Service Request"
+"Device Support","Partnership On-Site Support","Virus Removal","Service Request"
+"Device Support","User Guidance","Device Troubleshooting",Incident
+"Device Support","User Guidance","Not Listed","Service Request"
+"Device Support","User Guidance",Software,"Service Request"
+"Device Support","Walk-In Support","Basic Troubleshooting",Incident
+"Email & Calendar","Alumni Email","Cannot Access Alumni Email",Incident
+"Email & Calendar","Alumni Email","Not Listed",Incident
+"Email & Calendar",Calendar,"Cannot Access Calendar",Incident
+"Email & Calendar",Calendar,"Convert to Resource Calendar","Service Request"
+"Email & Calendar",Calendar,"Convert to Shared Calendar","Service Request"
+"Email & Calendar",Calendar,"Modify Shared Calendar Permissions","Service Request"
+"Email & Calendar",Calendar,"Not Listed",Incident
+"Email & Calendar",Calendar,"Outlook Client Issues",Incident
+"Email & Calendar","Distribution List","Modify Distribution List","Service Request"
+"Email & Calendar","Distribution List","New Distribution List","Service Request"
+"Email & Calendar","Distribution List","Not Listed",Incident
+"Email & Calendar","Distribution List","Remove Distribution List","Service Request"
+"Email & Calendar",Email,"Cannot Access Email",Incident
+"Email & Calendar",Email,"Convert to Shared Mailbox","Service Request"
+"Email & Calendar",Email,"Direct Access to Shared Mailbox","Service Request"
+"Email & Calendar",Email,"Email Web Client Issues",Incident
+"Email & Calendar",Email,"Missing Emails/Folders",Incident
+"Email & Calendar",Email,"Modify Alias for Shared Account","Service Request"
+"Email & Calendar",Email,"Modify Permissions for Shared Account","Service Request"
+"Email & Calendar",Email,"Not Listed",Incident
+"Email & Calendar",Email,"Outbound Mail Block/Unblock",Incident
+"Email & Calendar",Email,"Outlook Client Issues",Incident
+"Email & Calendar",Email,"Report Suspicious Email & Spam","Service Request"
+"Email & Calendar",Listserv,"Cannot Access Listserv",Incident
+"Email & Calendar",Listserv,"Modify Listserv","Service Request"
+"Email & Calendar",Listserv,"New Listserv","Service Request"
+"Email & Calendar",Listserv,"Not Listed",Incident
+"Email & Calendar",Listserv,"Remove Listserv","Service Request"
+"Email & Calendar","Message Relay","Add External IP/Email","Service Request"
+"Email & Calendar","Message Relay","Add Local IP","Service Request"
+"Email & Calendar","Message Relay","Not Listed",Incident
+"Email & Calendar","Message Relay","Relay Not Working",Incident
+"Email & Calendar","Message Relay","Remove External IP/Email","Service Request"
+"Email & Calendar","Message Relay","Remove Local IP","Service Request"
+"Information & Training","Digital Signage","New Digital Signage","Service Request"
+"Information & Training","Digital Signage","Not Listed",Incident
+"Information & Training","External Knowledge Base","Edit IT Article","Service Request"
+"Information & Training","External Knowledge Base","New IT Article","Service Request"
+"Information & Training","External Knowledge Base","New Kbase Instance","Service Request"
+"Information & Training","External Knowledge Base","Not Listed",Incident
+"Information & Training","External Knowledge Base","Remove IT Article","Service Request"
+"Information & Training",Lynda,"Cannot Access Lynda",Incident
+"Information & Training",Lynda,"Create Lynda Group","Service Request"
+"Information & Training",Lynda,"Not Listed",Incident
+"Instructional Technology","A/V Support","A/V Design Consultation","Service Request"
+"Instructional Technology","A/V Support","Classroom Technology Training","Service Request"
+"Instructional Technology","A/V Support","Device Repair",Incident
+"Instructional Technology","A/V Support","New Practice Space Event","Service Request"
+"Instructional Technology","A/V Support","Not Listed",Incident
+"Instructional Technology","A/V Support","Support for Class in Session",Incident
+"Instructional Technology","A/V Support","User-Reported Issue",Incident
+"Instructional Technology","Classroom Response System","iClicker in Class Training","Service Request"
+"Instructional Technology","Classroom Response System","iClicker Integration with LMS","Service Request"
+"Instructional Technology","Classroom Response System","Not Listed",Incident
+"Instructional Technology","Lab Software","New Lab software","Service Request"
+"Instructional Technology","Lab Software","New Virtual Lab Software","Service Request"
+"Instructional Technology","Lab Software","Not Listed",Incident
+"Instructional Technology","Lab Software","Virtual Lab Access","Service Request"
+"Instructional Technology","Proactive Discovery","Classroom Assessment",Incident
+"Instructional Technology","Proactive Discovery","Lab Assessment",Incident
+"Instructional Technology","Proactive Discovery","Tech Check",Incident
+"Internet & Phone","Cabling & Port Activation","Activate Existing Network Port","Service Request"
+"Internet & Phone","Cabling & Port Activation","Billing Inquiry","Service Request"
+"Internet & Phone","Cabling & Port Activation","Bulk Cabling Request","Service Request"
+"Internet & Phone","Cabling & Port Activation","Disconnect Existing Network Port","Service Request"
+"Internet & Phone","Cabling & Port Activation","Install & Activate a New Network Port","Service Request"
+"Internet & Phone","Cabling & Port Activation","Install New Network Port without Activation","Service Request"
+"Internet & Phone","Cabling & Port Activation","Move Existing Network Port","Service Request"
+"Internet & Phone","Cabling & Port Activation","Not Listed",Incident
+"Internet & Phone","Cabling & Port Activation","Report a Physically Damaged Network Port",Incident
+"Internet & Phone","Conference Bridge","Billing Inquiry","Service Request"
+"Internet & Phone","Conference Bridge","Modify an Existing Conf. Bridge","Service Request"
+"Internet & Phone","Conference Bridge","New Conference Bridge","Service Request"
+"Internet & Phone","Conference Bridge","Not Listed",Incident
+"Internet & Phone","Conference Bridge","Remove an Existing Conf. Bridge","Service Request"
+"Internet & Phone","Contact Center","Add Queue to Existing Phone","Service Request"
+"Internet & Phone","Contact Center","Modify Queue Settings - IVR","Service Request"
+"Internet & Phone","Contact Center","New Phone Queue - Contact Center","Service Request"
+"Internet & Phone","Contact Center","Not Listed",Incident
+"Internet & Phone","Contact Center","Remove Queue from Existing Phone","Service Request"
+"Internet & Phone",DNS/URL,"Modify DNS/URL Entry","Service Request"
+"Internet & Phone",DNS/URL,"Modify OpenDNS Entry","Service Request"
+"Internet & Phone",DNS/URL,"Modify OpenDNS Setting","Service Request"
+"Internet & Phone",DNS/URL,"New DNS/URL Entry","Service Request"
+"Internet & Phone",DNS/URL,"Not Listed",Incident
+"Internet & Phone",DNS/URL,"Remove DNS/URL Entry","Service Request"
+"Internet & Phone",Firewall,"Firewall Exception","Service Request"
+"Internet & Phone",Firewall,"Not Listed",Incident
+"Internet & Phone",Firewall,"Website Blocked","Service Request"
+"Internet & Phone","Network Services","Cannot Connect to Management VPN",Incident
+"Internet & Phone","Network Services","Cannot Connect to OUGUEST",Incident
+"Internet & Phone","Network Services","Cannot Connect to OUWIFI",Incident
+"Internet & Phone","Network Services","Cannot Connect to VPN",Incident
+"Internet & Phone","Network Services","Cannot Connect to Wired Internet",Incident
+"Internet & Phone","Network Services","Manual Network Registration",Incident
+"Internet & Phone","Network Services","New EDURoam Registration","Service Request"
+"Internet & Phone","Network Services","Not Listed",Incident
+"Internet & Phone","Network Services","VLAN Configuration","Service Request"
+"Internet & Phone",Phone,"Billing Inquiry","Service Request"
+"Internet & Phone",Phone,"Bulk Telecom Request","Service Request"
+"Internet & Phone",Phone,"Disconnect Phone","Service Request"
+"Internet & Phone",Phone,"Modify Phone Programming","Service Request"
+"Internet & Phone",Phone,"New Analog Phone","Service Request"
+"Internet & Phone",Phone,"New IP Phone","Service Request"
+"Internet & Phone",Phone,"Not Listed",Incident
+"Internet & Phone",Phone,"Phone Move","Service Request"
+"Internet & Phone",Phone,"Phone Trouble Ticket",Incident
+"Internet & Phone","Static IP","Modify Static IP Address","Service Request"
+"Internet & Phone","Static IP","New Static IP Address","Service Request"
+"Internet & Phone","Static IP","Not Listed",Incident
+"Internet & Phone",Voicemail,"Add Voicemail","Service Request"
+"Internet & Phone",Voicemail,"Billing Inquiry","Service Request"
+"Internet & Phone",Voicemail,"Modify Voicemail","Service Request"
+"Internet & Phone",Voicemail,"Not Listed",Incident
+"Internet & Phone",Voicemail,"Reset Voicemail Password","Service Request"
+Other,"File Exports",Bookstore,"Service Request"
+Other,"File Exports","Not Listed","Service Request"
+Other,"File Exports","Parking Garage","Service Request"
+Other,"Not Listed","Not Listed",Incident
+Other,"SPAM Messages","SPAM Messages",Incident
+Other,Withdrawn,Withdrawn,Incident
+Printing,"Specialty & Lab Printing","Not Listed",Incident
+Printing,"Specialty & Lab Printing","On-Site Printer Support",Incident
+Printing,"Specialty & Lab Printing","Printing Refund","Service Request"
+Printing,"Specialty & Lab Printing","Supplies Needed","Service Request"
+Printing,"Traditional & Enterprise Printing","Not Listed",Incident
+Printing,"Traditional & Enterprise Printing","On-Site Printer Support","Service Request"
+Printing,WEPA,"New Kiosk Placement","Service Request"
+Printing,WEPA,"Not Listed",Incident
+Printing,WEPA,"WEPA Printer Supplies Needed","Service Request"
+"Research & Enterprise Data",Cognos,"New Cognos Account","Service Request"
+"Research & Enterprise Data",Cognos,"Not Listed",Incident
+"Research & Enterprise Data","Data Integrations","Delete Integration","Service Request"
+"Research & Enterprise Data","Data Integrations","Modify Integration","Service Request"
+"Research & Enterprise Data","Data Integrations","New Integration","Service Request"
+"Research & Enterprise Data","Data Integrations",Troubleshoot,Incident
+"Research & Enterprise Data","Data Migrations","Delete Migration","Service Request"
+"Research & Enterprise Data","Data Migrations","Modify Migration","Service Request"
+"Research & Enterprise Data","Data Migrations","New Migration","Service Request"
+"Research & Enterprise Data","Data Migrations",Troubleshoot,Incident
+"Research & Enterprise Data","Data Services","Not Listed",Incident
+"Research & Enterprise Data","Enterprise Reports, Analytics, and Dashboards","Delete Report","Service Request"
+"Research & Enterprise Data","Enterprise Reports, Analytics, and Dashboards","Modify Report","Service Request"
+"Research & Enterprise Data","Enterprise Reports, Analytics, and Dashboards","Modify, Delete or Troubleshoot",Incident
+"Research & Enterprise Data","Enterprise Reports, Analytics, and Dashboards","New Report","Service Request"
+"Research & Enterprise Data","Enterprise Reports, Analytics, and Dashboards","New Request","Service Request"
+"Research & Enterprise Data","Enterprise Reports, Analytics, and Dashboards","Troubleshoot Report",Incident
+"Research & Enterprise Data",IRADS,"New IRADS Account","Service Request"
+"Research & Enterprise Data",IRADS,"Not Listed",Incident
+"Research & Enterprise Data",OSCER,"New OSCER Account","Service Request"
+"Research & Enterprise Data",OSCER,"Not Listed",Incident
+"Research & Enterprise Data",Tableau,"New Tableau Account","Service Request"
+"Research & Enterprise Data",Tableau,"Not Listed",Incident
+Security,Antivirus,"DDPE Installation","Service Request"
+Security,Antivirus,"DDPE Whitelist Request","Service Request"
+Security,Antivirus,"Infected Device Block",Incident
+Security,Antivirus,"Not Listed",Incident
+Security,Encryption,"MacAfee Installation","Service Request"
+Security,Encryption,"Not Listed",Incident
+Security,"Security Cameras","Avigilon Camera Software Installation","Service Request"
+Security,"Security Cameras","Camera Access Request","Service Request"
+Security,"Security Cameras","New Camera Installation","Service Request"
+Security,"Security Cameras","Not Listed","Service Request"
+Security,"Security Cameras","Security Camera Quote","Service Request"
+Security,"Security Consultation","Host Vulnerability Scan","Service Request"
+Security,"Security Consultation","Request a Consultation","Service Request"
+"Storage & Collaboration",Basecamp,"Add Basecamp Account","Service Request"
+"Storage & Collaboration",Basecamp,"Basecamp Configuration","Service Request"
+"Storage & Collaboration",Basecamp,"Not Listed",Incident
+"Storage & Collaboration",Basecamp,"Remove Basecamp Account","Service Request"
+"Storage & Collaboration",Create.ou.edu,"Cannot Access Create.ou.edu",Incident
+"Storage & Collaboration",Create.ou.edu,"Migrate Site from OUWWW","Service Request"
+"Storage & Collaboration",Create.ou.edu,"Not Listed",Incident
+"Storage & Collaboration",Dropbox,"Create Dropbox Group","Service Request"
+"Storage & Collaboration",Dropbox,"Modify Dropbox Group Manager","Service Request"
+"Storage & Collaboration",Dropbox,"Not Listed",Incident
+"Storage & Collaboration",Dropbox,"Purchase Dropbox License","Service Request"
+"Storage & Collaboration",Dropbox,"Remove Dropbox Group","Service Request"
+"Storage & Collaboration",Dropbox,"Remove Dropbox License","Service Request"
+"Storage & Collaboration",Dropbox,"Transfer Dropbox License","Service Request"
+"Storage & Collaboration",Laserfiche,"Modify Laserfiche Storage","Service Request"
+"Storage & Collaboration",Laserfiche,"New Laserfiche Storage","Service Request"
+"Storage & Collaboration",Laserfiche,"Not Listed",Incident
+"Storage & Collaboration",Laserfiche,"Remove Laserfiche Storage","Service Request"
+"Storage & Collaboration",Norfile,"Modify Norfile Permissions","Service Request"
+"Storage & Collaboration",Norfile,"Not Listed",Incident
+"Storage & Collaboration","O365 OneDrive","Cannot Access OneDrive",Incident
+"Storage & Collaboration","O365 OneDrive","Not Listed",Incident
+"Storage & Collaboration",OUWWW,"New Organization Website","Service Request"
+"Storage & Collaboration",OUWWW,"Not Listed",Incident
+"Storage & Collaboration",OUWWW,"Remove an Organization Website","Service Request"
+"Storage & Collaboration","SharePoint - On Prem","Modify On Prem SharePoint Site","Service Request"
+"Storage & Collaboration","SharePoint - On Prem","Not Listed",Incident
+"Technology Sales & Consulting","Campus Stores","New Cell Phone Order","Service Request"
+"Technology Sales & Consulting","Campus Stores","New Computer Order","Service Request"
+"Technology Sales & Consulting","Campus Stores","New Computer Quote","Service Request"
+"Technology Sales & Consulting","Campus Stores","Not Listed",Incident
+"Technology Sales & Consulting","Campus Stores","Update IT Store Software","Service Request"
+"Technology Sales & Consulting","Consultation Requests","Project Management Office Consultation","Service Request"
+"Technology Sales & Consulting","Consultation Requests","Strategy Consultation","Service Request"
+"University Applications","Adobe Creative Cloud","Cannot Access Adobe CC",Incident
+"University Applications","Adobe Creative Cloud","Install Package Request","Service Request"
+"University Applications","Adobe Creative Cloud","Not Listed",Incident
+"University Applications",Banner,"Cannot Access Banner",Incident
+"University Applications",Banner,"Missing Functionality",Incident
+"University Applications",Banner,"Not Listed",Incident
+"University Applications","Crimson Corner","Cannot Access Crimson Corner",Incident
+"University Applications","Crimson Corner","Not Listed",Incident
+"University Applications","Emergency Alerts",Alertus,Incident
+"University Applications","Emergency Alerts","Not Listed",Incident
+"University Applications","Emergency Alerts",Rave,Incident
+"University Applications","ITSM Tool","Modify Access",Incident
+"University Applications","ITSM Tool","Non Case",Incident
+"University Applications","ITSM Tool","Not Listed",Incident
+"University Applications","ITSM Tool","Remove Access",Incident
+"University Applications","ITSM Tool","Request Access",Incident
+"University Applications","Learning Management System","Cannot Access Canvas",Incident
+"University Applications","Learning Management System","Canvas Course Access","Service Request"
+"University Applications","Learning Management System","Canvas Course Combine","Service Request"
+"University Applications","Learning Management System","Missing Functionality",Incident
+"University Applications","Learning Management System","Not Listed",Incident
+"University Applications","MS Imagine","Cannot Access MS Imagine",Incident
+"University Applications","MS Imagine","Not Listed",Incident
+"University Applications",MyMedia,"Cannot Access MyMedia",Incident
+"University Applications",MyMedia,"Lecture Capture Assistance","Service Request"
+"University Applications",MyMedia,"Missing Functionality",Incident
+"University Applications",MyMedia,"New Shared MyMedia Account","Service Request"
+"University Applications",MyMedia,"Not Listed",Incident
+"University Applications","Not Listed",Appworks,Incident
+"University Applications","Not Listed",Concur,Incident
+"University Applications","Not Listed",Database,Incident
+"University Applications","Not Listed","Degree Navigator",Incident
+"University Applications","Not Listed",Gartner,Incident
+"University Applications","Not Listed",iAdvise,Incident
+"University Applications","Not Listed",Janux,Incident
+"University Applications","Not Listed","Not Listed",Incident
+"University Applications","Not Listed","NY Times",Incident
+"University Applications","Not Listed",OnPoint,Incident
+"University Applications","Not Listed","OU bound",Incident
+"University Applications","Not Listed","OU innovate",Incident
+"University Applications","Not Listed","The Book",Incident
+"University Applications","O365 Productivity","Cannot Access O365 Productivity",Incident
+"University Applications","O365 Productivity","Missing Functionality",Incident
+"University Applications","O365 Productivity","Not Listed",Incident
+"University Applications",ONE.ou.edu,"Cannot Access ONE",Incident
+"University Applications",ONE.ou.edu,"Missing Functionality",Incident
+"University Applications",ONE.ou.edu,"Not Listed",Incident
+"University Applications",PeopleSoft,"Cannot Access PeopleSoft",Incident
+"University Applications",PeopleSoft,"Missing Functionality",Incident
+"University Applications",PeopleSoft,"Not Listed",Incident
+"University Applications",PeopleSoft,"System Performance Issue",Incident
+"University Applications","Point of Sale - Micros","Cannot Access Point of Sale - Micros",Incident
+"University Applications","Point of Sale - Micros","Not Listed",Incident
+"University Applications",Qualtrics,"Cannot Access Qualtrics",Incident
+"University Applications",Qualtrics,"Missing Functionality",Incident
+"University Applications",Qualtrics,"New Qualtrics Group","Service Request"
+"University Applications",Qualtrics,"Not Listed",Incident
+"University Applications",Qualtrics,"Qualtrics Ownership Change","Service Request"
+

@@ -1,0 +1,268 @@
+Accounts & Authentication,Organization Account,New Organization Account
+Accounts & Authentication,Organization Account,Modify Organization Account
+Accounts & Authentication,Organization Account,Remove Organization Account
+Accounts & Authentication,Organization Account,Renew Organization Account
+Accounts & Authentication,Organization Account,Not Listed
+Accounts & Authentication,Exception Account,New Exception Account
+Accounts & Authentication,Exception Account,Modify Exception Account
+Accounts & Authentication,Exception Account,Remove Exception Account
+Accounts & Authentication,Exception Account,Renew Exception Account
+Accounts & Authentication,Exception Account,Not Listed
+Accounts & Authentication,Faculty Staff Account,Password Reset
+Accounts & Authentication,Faculty Staff Account,Merge Accounts
+Accounts & Authentication,Faculty Staff Account,Information Update
+Accounts & Authentication,Faculty Staff Account,Not Listed
+Accounts & Authentication,Student Account,Password Reset
+Accounts & Authentication,Student Account,Merge Account
+Accounts & Authentication,Student Account,Information Update
+Accounts & Authentication,Student Account,Not Listed
+Accounts & Authentication,Alumni Account,New Alumni Email Account
+Accounts & Authentication,Alumni Account,Password Reset
+Accounts & Authentication,Alumni Account,Not Listed
+Accounts & Authentication,IT System & Service Access,Elevated IT Account Request
+Accounts & Authentication,IT System & Service Access,Remove Elevated Account
+Accounts & Authentication,IT System & Service Access,Modify Elevated Account
+Accounts & Authentication,IT System & Service Access,Not Listed
+Accounts & Authentication,Single Sign On,New PING Integration
+Accounts & Authentication,Single Sign On,Cannot Connect to PING
+Accounts & Authentication,Single Sign On,Cannot connect to Shibboleth
+Accounts & Authentication,Single Sign On,Not Listed
+Accounts & Authentication,Multi-Factor Authentication,New DUO Integration
+Accounts & Authentication,Multi-Factor Authentication,Cannot Connect to DUO
+Accounts & Authentication,Multi-Factor Authentication,Not Listed
+Accounts & Authentication,AD Authentication,New LDAPS Integration
+Accounts & Authentication,AD Authentication,Cannot Connect to LDAP
+Accounts & Authentication,AD Authentication,Not Listed
+Accounts & Authentication,ST2 Action,HR Lock
+Accounts & Authentication,ST2 Action,Security Lock
+Accounts & Authentication,ST2 Action,Security Lock Customer Notification
+Accounts & Authentication,ST2 Action,ST2 Actions
+Device Support,Partnership On-Site Support,Device Troubleshooting
+Device Support,Partnership On-Site Support,New Device Set-Up
+Device Support,Partnership On-Site Support,Hardware / Peripheral Installation
+Device Support,Partnership On-Site Support,OS - Software Installation
+Device Support,Partnership On-Site Support,Virus Removal
+Device Support,Partnership On-Site Support,Express Check-In
+Device Support,Partnership On-Site Support,Not Listed
+Device Support,End of Life	,End of Lease Pick-Up
+Device Support,End of Life	,Surplus Technology Pick-Up
+Device Support,End of Life	,Not Listed
+Email & Calendar,Email,Cannot Access Email
+Email & Calendar,Email,Outbound Mail Block/Unblock
+Email & Calendar,Email,Modify Alias for Shared Account
+Email & Calendar,Email,Modify Permissions for Shared Account
+Email & Calendar,Email,Convert to Shared Mailbox
+Email & Calendar,Email,Missing Emails/Folders
+Email & Calendar,Email,Outlook Client Issues
+Email & Calendar,Email,Report Suspicious Email & Spam
+Email & Calendar,Email,Email Web Client Issues
+Email & Calendar,Email,Not Listed
+Email & Calendar,Calendar,Cannot Access Calendar
+Email & Calendar,Calendar,Modify Shared Calendar Permissions
+Email & Calendar,Calendar,Convert to Shared Calendar
+Email & Calendar,Calendar,Convert to Resource Calendar
+Email & Calendar,Calendar,Outlook Client Issues
+Email & Calendar,Calendar,Not Listed
+Email & Calendar,Listserv,Cannot Access Listserv
+Email & Calendar,Listserv,New Listserv
+Email & Calendar,Listserv,Modify Listserv
+Email & Calendar,Listserv,Remove Listserv
+Email & Calendar,Listserv,Not Listed
+Email & Calendar,Distribution List,New Distribution List
+Email & Calendar,Distribution List,Modify Distribution List
+Email & Calendar,Distribution List,Remove Distribution List
+Email & Calendar,Distribution List,Not Listed
+Email & Calendar,Alumni Email,Cannot Access Alumni Email
+Email & Calendar,Alumni Email,Not Listed
+Information & Training,Lynda,Cannot Access Lynda
+Information & Training,Lynda,Not Listed
+Information & Training,Digital Signage,New Digital Signage
+Information & Training,Digital Signage,Not Listed
+Information & Training,External Knowledge Base,New IT Article
+Information & Training,External Knowledge Base,Edit IT Article
+Information & Training,External Knowledge Base,Remove IT Article
+Information & Training,External Knowledge Base,New Kbase Instance
+Information & Training,External Knowledge Base,Not Listed
+Instructional Technology,Classroom Response System,iClicker Integration with LMS
+Instructional Technology,Classroom Response System,iClicker in Class Training
+Instructional Technology,Classroom Response System,Not Listed
+Instructional Technology,A/V Support,Support for Class in Session
+Instructional Technology,A/V Support,A/V Design Consultation
+Instructional Technology,A/V Support,New Practice Space Event
+Instructional Technology,A/V Support,Classroom Technology Training
+Instructional Technology,A/V Support,Not Listed
+Instructional Technology,Lab Software,New Lab software
+Instructional Technology,Lab Software,New Virtual Lab Software
+Instructional Technology,Lab Software,Virtual Lab Access
+Instructional Technology,Lab Software,Not Listed
+Internet & Phone,Phone,New IP Phone
+Internet & Phone,Phone,Phone Move
+Internet & Phone,Phone,Modify Phone Programming
+Internet & Phone,Phone,Disconnect Phone
+Internet & Phone,Phone,Phone Trouble Ticket
+Internet & Phone,Phone,New Analog Phone
+Internet & Phone,Phone,Billing Inquiry
+Internet & Phone,Phone,Not Listed
+Internet & Phone,Voicemail,Add Voicemail
+Internet & Phone,Voicemail,Modify Voicemail
+Internet & Phone,Voicemail,Reset Voicemail Password
+Internet & Phone,Voicemail,Billing Inquiry
+Internet & Phone,Voicemail,Not Listed
+Internet & Phone,Conference Bridge,New One Time Conf. Bridge
+Internet & Phone,Conference Bridge,New Permanent Conf. Bridge
+Internet & Phone,Conference Bridge,Modify an Existing Conf. Bridge
+Internet & Phone,Conference Bridge,Remove an Existing Conf. Bridge
+Internet & Phone,Conference Bridge,Billing Inquiry
+Internet & Phone,Conference Bridge,Not Listed
+Internet & Phone,Cabling & Port Activation,Activate Existing Network Port
+Internet & Phone,Cabling & Port Activation,Disconnect Existing Network Port
+Internet & Phone,Cabling & Port Activation,Install & Activate a New Network Port
+Internet & Phone,Cabling & Port Activation,Install New Network Port without Activation
+Internet & Phone,Cabling & Port Activation,Report a Physically Damaged Network Port
+Internet & Phone,Cabling & Port Activation,Billing Inquiry
+Internet & Phone,Cabling & Port Activation,Not Listed
+Internet & Phone,Network Services,Manual Network Registration
+Internet & Phone,Network Services,Cannot Connect to OUWIFI
+Internet & Phone,Network Services,Cannot Connect to OUGUEST
+Internet & Phone,Network Services,Cannot Connect to WIFI@OU
+Internet & Phone,Network Services,Cannot Connect to Wired Internet
+Internet & Phone,Network Services,Cannot Connect to VPN
+Internet & Phone,Network Services,Cannot Connect to Management VPN
+Internet & Phone,Network Services,New EDURoam Registration
+Internet & Phone,Network Services,Not Listed
+Internet & Phone,Static IP,New Static IP Address
+Internet & Phone,Static IP,Modify Static IP Address
+Internet & Phone,Static IP,VLAN Configuration
+Internet & Phone,Static IP,Not Listed
+Internet & Phone,Firewall,Firewall Exception
+Internet & Phone,Firewall,Website Blocked
+Internet & Phone,Firewall,Not Listed
+Internet & Phone,Contact Center,New Phone Queue - Contact Center
+Internet & Phone,Contact Center,Add Queue to Existing Phone
+Internet & Phone,Contact Center,Modify Queue Settings - IVR
+Internet & Phone,Contact Center,Remove Queue from Existing Phone
+Internet & Phone,Contact Center,Not Listed
+Internet & Phone,DNS,Modify Open DNS
+Internet & Phone,DNS,New DNS Entry
+Internet & Phone,DNS,Modify DNS Entry
+Internet & Phone,DNS,Remove DNS Entry
+Internet & Phone,DNS,Not Listed
+Printing,Specialty & Lab Printing,Supplies Needed
+Printing,Specialty & Lab Printing,On-Site Printer Support
+Printing,Specialty & Lab Printing,Printing Refund
+Printing,Specialty & Lab Printing,Not Listed
+Printing,Traditional & Enterprise Printing,On-Site Printer Support
+Printing,Traditional & Enterprise Printing,Not Listed
+Printing,WEPA,New Kiosk Placement
+Printing,WEPA,WEPA Printer Supplies Needed
+Printing,WEPA,Not Listed
+Research & Data Services,OSCER,New OSCER Account
+Research & Data Services,OSCER,Not Listed
+Research & Data Services,IRADS,New IRADS Account
+Research & Data Services,IRADS,Not Listed
+Research & Data Services,Cognos,New Cognos Account
+Research & Data Services,Cognos,Not Listed
+Research & Data Services,EDURoam,New EDURoam Registration
+Research & Data Services,EDURoam,Not Listed
+Research & Data Services,Enterprise Reports,Analytics, and Dashboards	New Request
+Research & Data Services,Data Integrations,New Integration
+Research & Data Services,Data Migrations,New Migration
+Research & Data Services,Data Services,Not Listed
+Security,Security Consultation,Request a Consultation
+Security,Encryption,MacAfee Installation
+Security,Encryption,Not Listed
+Security,Antivirus,DDPE Installation
+Security,Antivirus,Not Listed
+Security,Security Cameras,Security Camera Quote
+Security,Security Cameras,New Camera Installation
+Security,Security Cameras,Camera Access Request
+Security,Security Cameras,Avigilon Camera Software Installation
+Security,Security Cameras,Not Listed
+Storage & Collaboration,Dropbox,Create Dropbox Group
+Storage & Collaboration,Dropbox,Modify Dropbox Group Manager
+Storage & Collaboration,Dropbox,Remove Dropbox Group
+Storage & Collaboration,Dropbox,Purchase Dropbox License
+Storage & Collaboration,Dropbox,Transfer Dropbox License
+Storage & Collaboration,Dropbox,Remove Dropbox License
+Storage & Collaboration,Dropbox,Not Listed
+Storage & Collaboration,Basecamp,Add Basecamp Account
+Storage & Collaboration,Basecamp,Basecamp Configuration
+Storage & Collaboration,Basecamp,Remove Basecamp Account
+Storage & Collaboration,Basecamp,Not Listed
+Storage & Collaboration,OUWWW,New Organization Website
+Storage & Collaboration,OUWWW,Remove an Organization Website
+Storage & Collaboration,OUWWW,Not Listed
+Storage & Collaboration,Create.ou.edu,Cannot Access Create.ou.edu
+Storage & Collaboration,Create.ou.edu,Migrate Site from OUWWW
+Storage & Collaboration,Create.ou.edu,Not Listed
+Storage & Collaboration,O365 OneDrive,Cannot Access OneDrive
+Storage & Collaboration,O365 OneDrive,Not Listed
+Storage & Collaboration,SharePoint - On Prem,Modify On Premise SharePoint Site
+Storage & Collaboration,SharePoint - On Prem,Not Listed
+Storage & Collaboration,Laserfiche,New Laserfiche Storage
+Storage & Collaboration,Laserfiche,Modify Laserfiche Storage
+Storage & Collaboration,Laserfiche,Remove Laserfiche Storage
+Storage & Collaboration,Laserfiche,Not Listed
+Storage & Collaboration,Norfile,Modify Norfile Permissions
+Storage & Collaboration,Norfile,Not Listed
+Technology Sales & Consulting,Consultation Requests,Project Management Office Consultation
+Technology Sales & Consulting,Consultation Requests,Strategy Consultation
+Technology Sales & Consulting,Campus Stores	,New Computer Order
+Technology Sales & Consulting,Campus Stores	,New Computer Lease Quote
+Technology Sales & Consulting,Campus Stores,New Cell Phone Order
+Technology Sales & Consulting,Campus Stores	,Update IT Store Software
+Technology Sales & Consulting,Campus Stores	,Not Listed
+University Applications,PeopleSoft,Cannot Access PeopleSoft
+University Applications,PeopleSoft,Missing Functionality
+University Applications,PeopleSoft,Not Listed
+University Applications,Crimson Corner,Cannot Access Crimson Corner
+University Applications,Crimson Corner,Not Listed
+University Applications,OZone,Cannot Access OZone
+University Applications,OZone,Missing Functionality
+University Applications,OZone,Not Listed
+University Applications,ONE.ou.edu,Cannot Access ONE
+University Applications,ONE.ou.edu,Missing Functionality
+University Applications,ONE.ou.edu,Not Listed
+University Applications,O365 Productivity,Cannot Access O365 Productivity
+University Applications,O365 Productivity,Missing Functionality
+University Applications,O365 Productivity,Not Listed
+University Applications,Banner,Cannot Access Banner
+University Applications,Banner,Missing Functionality
+University Applications,Banner,Not Listed
+University Applications,MyMedia,New Shared MyMedia Account
+University Applications,MyMedia,Lecture Capture Assistance
+University Applications,MyMedia,Missing Functionality
+University Applications,MyMedia,Cannot Access MyMedia
+University Applications,MyMedia,Not Listed
+University Applications,Learning Management System	,Canvas Course Combine
+University Applications,Learning Management System	,Canvas Course Access
+University Applications,Learning Management System	,Missing Functionality
+University Applications,Learning Management System	,Cannot Access Canvas
+University Applications,Learning Management System	,Not Listed
+University Applications,Qualtrics,New Qualtrics Group
+University Applications,Qualtrics,Qualtrics Ownership Change
+University Applications,Qualtrics,Missing Functionality
+University Applications,Qualtrics,Cannot Access Qualtrics
+University Applications,Qualtrics,Not Listed
+University Applications,Adobe Creative Cloud,Cannot Access Adobe CC
+University Applications,Adobe Creative Cloud,Not Listed
+University Applications,MS Imagine,Cannot Access MS Imagine
+University Applications,MS Imagine,Not Listed
+University Applications,Point of Sale - Micros,Cannot Access Point of Sale - Micros
+University Applications,Point of Sale - Micros,Not Listed
+University Applications,ITSM Tool,Request Access
+University Applications,ITSM Tool,Modify Access
+University Applications,ITSM Tool,Remove Access
+University Applications,ITSM Tool,Non Case
+University Applications,ITSM Tool,Not Listed
+University Applications,Not Listed,Database
+University Applications,Not Listed,OU bound
+University Applications,Not Listed,OU innovate
+University Applications,Not Listed,Appworks
+University Applications,Not Listed,Degree Navigator
+University Applications,Not Listed,The Book
+University Applications,Not Listed,Gartner
+University Applications,Not Listed,NY Times
+University Applications,Not Listed,Lynda
+Other,SPAM Messages,SPAM Messages
+Other,Not Listed,Not Listed
